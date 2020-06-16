@@ -1,0 +1,286 @@
+{
+  "words": 
+    [ {
+        "type": "similar",
+        "word": "vilify",
+        "options": ["digitize", "disparage"],
+        "answer": "1"
+      },
+      {
+        "type": "opposite",
+        "word": "recalcitrant",
+        "options": ["amenable", "advisable"],
+        "answer": "0"
+      },
+      {
+        "type": "similar",
+        "word": "disparage",
+        "options": ["belittle", "throttle"],
+        "answer": "0"
+      },
+      {
+        "type": "similar",
+        "word": "indiscriminate",
+        "options": ["preoperative", "nonselective"],
+        "answer": "1"
+      },
+      {
+        "type": "similar",
+        "word": "munificent",
+        "options": ["generous", "usurious"],
+        "answer": "0"
+      },
+      {
+        "type": "similar",
+        "word": "tearful",
+        "options": ["hulking", "crying"],
+        "answer": "1"
+      },
+      {
+        "type": "similar",
+        "word": "banter",
+        "options": ["reprive", "repartee"],
+        "answer": "1"
+      },
+      {
+        "type": "similar",
+        "word": "chafe",
+        "options": ["abrade", "downgrade"],
+        "answer": "0"
+      },
+      {
+        "type": "similar",
+        "word": "dungeon",
+        "options": ["oubliette", "baguette"],
+        "answer": "0"
+      },
+      {
+        "type": "similar",
+        "word": "user-friendly",
+        "options": ["easy-to-use", "evasive"],
+        "answer": "0"
+      },
+      {
+        "type": "similar",
+        "word": "hanker",
+        "options": ["unlearn", "yearn"],
+        "answer": "1"
+      },
+      {
+        "type": "similar",
+        "word": "peacemaker",
+        "options": ["arbitrator", "defibrilator"],
+        "answer": "0"
+      },
+      {
+        "type": "similar",
+        "word": "tidy",
+        "options": ["declutter", "twitter"],
+        "answer": "0"
+      },
+      {
+        "type": "similar",
+        "word": "elixir",
+        "options": ["preemption", "potion"],
+        "answer": "1"
+      },
+      {
+        "type": "similar",
+        "word": "chitchat",
+        "options": ["changeover", "chatter"],
+        "answer": "1"
+      },
+      {
+        "type": "similar",
+        "word": "snappy",
+        "options": ["long-winded", "grounded"],
+        "answer": "0"
+      },
+      {
+        "type": "similar",
+        "word": "habitable",
+        "options": ["laughable", "livable"],
+        "answer": "1"
+      },
+      {
+        "type": "similar",
+        "word": "ebullient",
+        "options": ["exuberant", "aberrant"],
+        "answer": "0"
+      },
+      {
+        "type": "similar",
+        "word": "overblown",
+        "options": ["flowered", "florid"],
+        "answer": "1"
+      },
+      {
+        "type": "similar",
+        "word": "morose",
+        "options": ["sundry", "sullen"],
+        "answer": "1"
+      },
+      {
+        "type": "similar",
+        "word": "patrician",
+        "options": ["archivist", "aristocrat"],
+        "answer": "1"
+      },
+      {
+        "type": "similar",
+        "word": "vade mecum",
+        "options": ["guide", "enemy"],
+        "answer": "0"
+      },
+      {
+        "type": "opposite",
+        "word": "regressus ad infinitum",
+        "options": ["final", "iterate"],
+        "answer": "0"
+      },
+      {
+        "type": "similar",
+        "word": "abate",
+        "options": ["decrease", "boost"],
+        "answer": "0"
+      },
+      {
+        "type": "opposite",
+        "word": "candid",
+        "options": ["pure", "guarded"],
+        "answer": "1"
+      },
+      {
+        "type": "similar",
+        "word": "diffuse",
+        "options": ["compact", "dispersed"],
+        "answer": "1"
+      },
+      {
+        "type": "similar",
+        "word": "circuitous",
+        "options": ["roundabout", "direct"],
+        "answer": "0"
+      },
+      {
+        "type": "similar",
+        "word": "dissolution",
+        "options": ["connection", "disbandment"],
+        "answer": "1"
+      },
+      {
+        "type": "similar",
+        "word": "dupe",
+        "options": ["fool", "cognizant"],
+        "answer": "0"
+      },
+      {
+        "type": "similar",
+        "word": "disinterested",
+        "options": ["not liking", "not influenced"],
+        "answer": "1"
+      },
+      {
+        "type": "opposite",
+        "word": "lucid",
+        "options": ["moon light", "dull"],
+        "answer": "1"
+      },
+      {
+        "type": "opposite",
+        "word": "malign",
+        "options": ["curved", "eulogize"],
+        "answer": "1"
+      },
+      {
+        "type": "similar",
+        "word": "amenity",
+        "options": ["frendly", "comfort"],
+        "answer": "1"
+      },
+      {
+        "type": "similar",
+        "word": "caustic",
+        "options": ["biting", "kind"],
+        "answer": "0"
+      },
+      {
+        "type": "similar",
+        "word": "discredit",
+        "options": ["commend", "defame"],
+        "answer": "1"
+      },
+      {
+        "type": "opposite",
+        "word": "minuscule",
+        "options": ["vast", "minimal"],
+        "answer": "0"
+      },
+      {
+        "type": "opposite",
+        "word": "candid",
+        "options": ["pure", "guarded"],
+        "answer": "1"
+      },
+      {
+        "type": "similar",
+        "word": "fissure",
+        "options": ["closure", "cleavage"],
+        "answer": "1"
+      },
+      {
+        "type": "opposite",
+        "word": "placid",
+        "options": ["torrent", "torture"],
+        "answer": "0"
+      },
+      {
+        "type": "similar",
+        "word": "transient",
+        "options": ["ephemeral", "constant"],
+        "answer": "0"
+      },
+      {
+        "type": "similar",
+        "word": "empirical",
+        "options": ["fictional", "factual"],
+        "answer": "1"
+      },
+      {
+        "type": "opposite",
+        "word": "intangible",
+        "options": ["tangled", "untouchable"],
+        "answer": "1"
+      },
+      {
+        "type": "similar",
+        "word": "euphoria",
+        "options": ["bliss", "confusion"],
+        "answer": "0"
+      },
+      {
+        "type": "similar",
+        "word": "coalesce",
+        "options": ["very clear", "amalgamate"],
+        "answer": "1"
+      },
+      {
+        "type": "similar",
+        "word": "compliant",
+        "options": ["stubborn", "flexible"],
+        "answer": "1"
+      },
+      {
+        "type": "similar",
+        "word": "digress",
+        "options": ["stray", "stay"],
+        "answer": "0"
+      },
+      {
+        "type": "similar",
+        "word": "canicular",
+        "options": ["of dog days", "of geometry"],
+        "answer": "0"
+      }
+    ]
+}

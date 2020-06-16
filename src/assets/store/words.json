@@ -1,0 +1,64 @@
+{
+  "words": 
+    [ {
+        "type": "similar",
+        "word": "vilify",
+        "options": ["digitize", "disparage"],
+        "answer": "1"
+      },
+      {
+        "type": "opposite",
+        "word": "recalcitrant",
+        "options": ["amanable", "advisable"],
+        "answer": "0"
+      },
+      {
+        "type": "similar",
+        "word": "disparage",
+        "options": ["belittle", "throttle"],
+        "answer": "0"
+      },
+      {
+        "type": "similar",
+        "word": "indiscriminate",
+        "options": ["preoperative", "nonselective"],
+        "answer": "1"
+      },
+      {
+        "type": "similar",
+        "word": "munificent",
+        "options": ["generous", "usurious"],
+        "answer": "0"
+      },
+      {
+        "type": "similar",
+        "word": "tearful",
+        "options": ["hulking", "crying"],
+        "answer": "1"
+      },
+      {
+        "type": "similar",
+        "word": "banter",
+        "options": ["reprive", "repartee"],
+        "answer": "1"
+      },
+      {
+        "type": "similar",
+        "word": "chafe",
+        "options": ["abrade", "downgrade"],
+        "answer": "1"
+      },
+      {
+        "type": "similar",
+        "word": "dungeon",
+        "options": ["oubliette", "baguette"],
+        "answer": "1"
+      },
+      {
+        "type": "similar",
+        "word": "user-friendly",
+        "options": ["easy-to-use", "evasive"],
+        "answer": "1"
+      }
+    ]
+}
